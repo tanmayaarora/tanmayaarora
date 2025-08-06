@@ -1,14 +1,22 @@
 Hi 👋 My name is Tanmaya Arora
 ==============================
 
-Developer | Programmer
+Developer | Programmer | Django + Flask + Numpy + Pandas + Scikit-learn + TensorFlow + MySQL + Flutter + Linux + React | Python + SQL + Javascript | API Development | API Integration | Django theme customization | Open to Work
 ----------------------
 
-Passionate about coding and enjoy executing new programs which enable to hone new skills. I have more than 1 year of hands-on experience in ReactJS, HTML, JavaScript. During my graduation and post-graduation days, I have been known as an excellent programmer due to my knowledge of various programming languages and problem solving capability.
+Passionate about coding and enjoy executing new programs which enable to hone new skills. 
+
+I am on the hunt for my new role as Data Analyst, Data Scientist, AI/ML Engineer, Python Developer.
+
+For more than 3 years, I have been learning and working with different tools and technologies. I am interested to learn and work with any emerging tools and technologies (e.g. Docker, Kubernetes, Langchain, LlamaIndex, Huggingface, Celery).
+
+I have earned valuable experiences working as a part of the team with different organisations. In my current organisation (Manav Rachna International Institute of Research and Studies), I have worked in the areas of Image Processing, Object Detection which involved working with Python Numpy, Pandas and submitted research papers to different conferences.
+
+During my graduation and post-graduation days, I have been known as an excellent programmer due to my knowledge of various programming languages and problem solving capability.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [tarora431@gmail.com](mailto:tarora431@gmail.com)
-*   🧠  I'm learning Docker
+*   🧠  I'm learning Generative AI 
 
 ### Skills 
 <p align="left">
