@@ -2,7 +2,7 @@ Hi 👋 My name is Tanmaya Arora
 ==============================
 
 Developer | Programmer | Django + Flask + Numpy + Pandas + Scikit-learn + TensorFlow + MySQL + Flutter + Linux + React | Python + SQL + Javascript | API Development | API Integration | Django theme customization | Open to Work
-----------------------
+---
 
 Passionate about coding and enjoy executing new programs which enable to hone new skills. 
 
@@ -17,6 +17,8 @@ During my graduation and post-graduation days, I have been known as an excellent
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [tarora431@gmail.com](mailto:tarora431@gmail.com)
 *   🧠  I'm learning Generative AI 
+
+---
 
 ### Skills 
 <p align="left">
@@ -35,6 +37,68 @@ During my graduation and post-graduation days, I have been known as an excellent
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
+
+---
+
+## 💼 Professional Experience
+
+**Manav Rachna International Institute of Research and Studies, Research Associate**  
+*July 2024 - August 2025*
+
+- Worked on various projects where I gained valuable experience in the areas of **Image Processing, Artificial Intelligence, Machine Learning and Deep Learning**
+- Data collection for healthcare projects
+
+**Vector3 Digital Tech Pvt. Ltd., Junior Software Developer**  
+*June 2023 - August 2024*
+
+- Experience in Component Designing using Flutter. Gained valuable experience in using Flutter packages like **dio, http, file_picker, image_picker, email_validator, flutter_pw_validator, syncfusion_flutter_pdf**
+- Worked on various projects where I gained valuable experience in the areas of **Mobile, Backend, Frontend and Web development**
+- API Development in Django
+- API Integration in Flutter, React JS
+- Involved in Server Setup and deploying Django projects
+- Django theme customization
+
+**Trantor Software Pvt. Ltd., Trainee**  
+*December 2021 - January 2023*
+
+- Worked on various projects where I gained valuable experience in using React libraries like **axios, font-awesome, formik, react-redux, react-router-dom, react-toastify, react-tooltip, redux-saga, yup**
+- Developed Components in React. Led the Frontend Development of MVP3.0 with **API Integration**
+- Involved in code reviews and providing project builds, resulting in increased collaboration effectiveness
+
+---
+
+## 📁 Projects
+
+### 1. 📊 Customer Churn Prediction
+**Goal**: Identify customers likely to churn for a telecom company.  
+**Tech Stack**: R, Outliers, C50, pROC, randomForest, Formattable, ggplot2, DataExplorer 
+- Cleaned and explored customer records
+- Trained multiple ML models
+
+<img width="1137" height="664" alt="Initital_run_tree" src="https://github.com/user-attachments/assets/4c38eca8-98ac-49af-86cb-4af25dc00b1f" />
+
+<img width="407" height="250" alt="Decision Tree ROC" src="https://github.com/user-attachments/assets/16c413db-48db-4002-9930-14de6a2767f8" />
+
+<img width="396" height="250" alt="ROC of Random Forest" src="https://github.com/user-attachments/assets/83054240-4c7f-4fa8-b5c9-c66e7ddb3fd4" />
+
+### 2. 📊 Classification of Heart Disease Patient
+**Goal**: Identify patients who have a heart disease and minimise the risk of misclassifying patients with a heart disease as if they have not got it.  
+**Tech Stack**: Python, numpy, pandas, matplotlib, seaborn, scikit-learn
+- Cleaned and normalized the data
+- Trained multiple ML models with hyperparameter tuning
+
+<img width="521" height="353" alt="Heart Disease Frequency for Sex" src="https://github.com/user-attachments/assets/389b8124-9e6f-4cbd-8d69-544201491b8a" />
+
+<img width="525" height="322" alt="Heart Disease in function of Age and Max Heart Rate" src="https://github.com/user-attachments/assets/6164163a-a423-49c6-9a6b-2efc36d50541" />
+
+<img width="535" height="258" alt="Heart Disease Frequency for Ages" src="https://github.com/user-attachments/assets/fd23a266-8dd1-428e-81e9-3aa9bdfa0ed7" />
+
+<img width="518" height="266" alt="Heart Disease Frequency according to FBS" src="https://github.com/user-attachments/assets/af8e8649-7664-411f-ab47-d0385e1e59bf" />
+
+<img width="518" height="307" alt="Model Accuracy" src="https://github.com/user-attachments/assets/1c7028dd-f6c2-4030-ae7f-ab387d152792" />
+
+
+---
 
 ### Socials
                   
